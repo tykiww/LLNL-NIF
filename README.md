@@ -16,6 +16,7 @@ Isaac Whittaker, Jacob Braswell (@jocobtt), Tyki Wada (@tykiww)
 
 - BYU Supercomputer access
   - Pyspark executed on Slurm batches
+  
  - Google Colab
   - Python3 on tensorflow GPU (TPU)
 
