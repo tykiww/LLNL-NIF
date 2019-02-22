@@ -10,7 +10,7 @@ Isaac Whittaker, Jacob Braswell (@jocobtt), Tyki Wada (@tykiww)
 
 - Full Factorial Design including noise (Cartesian Product with Gaussian blur in SAS/python)
 - Latin Hypercube Design (pyDOE)
-- Storage in hdf5 (24000 images)
+- Storage in hdf5 (24000 images, 448MB)
 
 ## Computation
 
