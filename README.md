@@ -22,8 +22,9 @@ Isaac Whittaker, Jacob Braswell (@jocobtt), Tyki Wada (@tykiww)
 
 ## Model
 
-- Convolutional Neural Network (Regression output)
-- Metrics: Customized loss function.
+- Deep Convolutional GAN (DCGAN)
+- Regular GAN (forwards model)
+- Convolutional Neural Network (backwards model)
 
 
 (Proprietary information (ie. packages) excluded)
