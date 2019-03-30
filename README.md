@@ -23,7 +23,7 @@ Isaac Whittaker, Jacob Braswell (@jocobtt), Tyki Wada (@tykiww)
 ## Model
 
 - Deep Convolutional GAN (DCGAN)
-- Regular GAN (forwards model)
+- Regular Keras sequential model (forwards model)
 - Convolutional Neural Network (backwards model)
 
 
