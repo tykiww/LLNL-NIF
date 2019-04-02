@@ -1,6 +1,8 @@
 # Plasma Reconstruction Summary
 
-Code used for predicting continuous high-density laser ray-tracing results using deep learning techniques. To be used in VR modules for STEM outreach. 
+Code used for predicting continuous high-density laser ray-tracing results using deep learning techniques. To be used in VR modules for Clean energy research and youth STEM outreach. 
+
+![]()
 
 ## Collaborators: 
 
@@ -10,7 +12,7 @@ Isaac Whittaker, Jacob Braswell (@jocobtt), Tyki Wada (@tykiww)
 
 - Full Factorial Design including noise (Cartesian Product with Gaussian blur in SAS/python)
 - Latin Hypercube Design (pyDOE)
-- Storage in hdf5 (24000 images, 448MB)
+- Image Storage in hdf5 as numpy arrays (24000 images, 448MB)
 - Labels as X input in CSV
 
 ## Computation
