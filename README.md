@@ -2,7 +2,7 @@
 
 Code used for predicting continuous high-density laser ray-tracing results using deep learning techniques. To be used in VR modules for Clean energy research and youth STEM outreach. 
 
-![]()
+![](https://raw.githubusercontent.com/tykiww/NIF-VR/master/images/DCG2-6-65-132.png)
 
 ## Collaborators: 
 
