@@ -23,7 +23,7 @@ Isaac Whittaker, Jacob Braswell (@jocobtt), Tyki Wada (@tykiww)
 - Google Colab
    - Python3 on tensorflow GPU (TPU)
 
-## Model
+## Models
 
 - Deep Convolutional Generator (DCG)
 - Regular Keras sequential model (forwards model)
