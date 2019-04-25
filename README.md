@@ -26,7 +26,7 @@ Isaac Whittaker, Jacob Braswell (@jocobtt), Tyki Wada (@tykiww)
 ## Models
 
 - Deep Convolutional Generator (DCG)
-- Regular Keras sequential model (forwards model)
+- Regular Keras sequential model (forward fully-connected model)
 
 
 (Proprietary information (ie. packages, models) excluded)
